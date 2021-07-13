@@ -26,6 +26,7 @@ public class WzpTest {
         System.out.println(array.get(1)+array.get(2));
         System.out.println(array.get(2));
         System.out.println(array.get(2));
+        System.out.println(array.get(34));
     }
     
 }
